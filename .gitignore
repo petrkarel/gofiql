@@ -1,0 +1,32 @@
+# Eclipse
+.classpath
+.buildpath
+.project
+.settings/
+bin/
+tmp/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
